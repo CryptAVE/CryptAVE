@@ -27,10 +27,3 @@ If it compiles, it can be reversed.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
-
-<br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptAVE&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptAVE&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Langs" />
-</div>
