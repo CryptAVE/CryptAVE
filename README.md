@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=root@CryptAVE:~%23" alt="Typing SVG" />
+</div>
 
-<!--
-**CryptAVE/CryptAVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```console
+$ whoami
+CryptAVE
 
-Here are some ideas to get you started:
+$ id
+uid=0(root) gid=0(root) groups=0(root)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat description.txt
+Breaking systems, analyzing malware, and studying low-level architectures. 
+If it compiles, it can be reversed.
