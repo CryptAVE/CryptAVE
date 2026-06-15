@@ -12,20 +12,6 @@ uid=0(root) gid=0(root) groups=0(root)
 $ cat description.txt
 Breaking systems, analyzing malware, and studying low-level architectures. 
 If it compiles, it can be reversed.
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=root@CryptAVE:~%23" alt="Typing SVG" />
-</div>
-
-```console
-$ whoami
-CryptAVE
-
-$ id
-uid=0(root) gid=0(root) groups=0(root)
-
-$ cat description.txt
-Breaking systems, analyzing malware, and studying low-level architectures. 
-If it compiles, it can be reversed.
 ```
 
 ### // Arsenal
@@ -63,6 +49,6 @@ If it compiles, it can be reversed.
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptAVE&show_icons=true&bg_color=00000000&title_color=00FF00&text_color=737373&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptAVE&layout=compact&bg_color=00000000&title_color=00FF00&text_color=737373&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CryptAVE&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptAVE&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&border_color=333333&hide_border=false" height="165" alt="Langs" />
 </div>
