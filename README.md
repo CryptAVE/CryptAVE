@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF00&text=root@CryptAVE:~%23&height=80&fontSize=40" alt="Header" />
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=100000&color=00FF00&center=true&vCenter=true&width=400&height=50&lines=root@CryptAVE:~%23" alt="Header" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="100" alt="Turkish Flag" />
 </div>
-
-
-
 
 ```console
 $ whoami
